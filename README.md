@@ -1,8 +1,13 @@
 Banking Analytics Dashboard
+
 End-to-End Banking Dashboard using Power BI, Python, and SQL
+
 📊 Overview
+
 This project demonstrates an end-to-end data analytics workflow for a banking institution, including data extraction, transformation, and visualization. The final output is a fully interactive Power BI dashboard providing insights into customer behavior, loan performance, and branch efficiency.
+
 🎯 Objectives
+
 Track and visualize key banking KPIs: total deposits, loan distribution, recovery rates, and revenue.
 
 Analyze customer segmentation based on demographics and activity.
@@ -18,6 +23,7 @@ Python (Pandas, NumPy, Matplotlib/Seaborn)	Data cleaning, feature engineering, a
 Power BI	Data modeling and interactive dashboard creation
 
 🗃️ Dataset
+
 The dataset consists of anonymized banking records including:
 
 Customer profiles (age, gender, region)
@@ -31,6 +37,7 @@ Branch-level KPIs
 Note: Dataset used is simulated for demonstration purposes.
 
 🖥️ Dashboard Features
+
 KPI Cards: Total revenue, active customers, NPA percentage, etc.
 
 Loan Performance View: Visualize disbursements vs recoveries over time
